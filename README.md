@@ -40,7 +40,7 @@ We approached this by breaking it down into specific, measurable questions and b
 
 ## 📎 Project Links
 
-- 🎥 **Video Presentation**: [Insert link here]  
+- 🎥 **Video Presentation**: [[Insert link here]](https://bit.ly/4kIpj6u)  
 - 📊 **Live Power BI Dashboard**: [Insert link here]  
 - 🖼️ **Canva Live Presentation**: [Insert link here]  
 - 📄 **Full Report / Documentation**: [Insert link here]  
